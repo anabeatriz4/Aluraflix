@@ -1,0 +1,19 @@
+body { 
+color:white;
+background: purple;
+font-family: "PT Serif", serif;
+
+} 
+
+secrion{ 
+display: flexs;
+
+}
+img {
+    height: 200px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px
+}
